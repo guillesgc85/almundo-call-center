@@ -31,10 +31,7 @@ todos los empleados se encuentran atendiendo llamadas, en estos casos, las llama
 serán encoladas nuevamente y se reintentará el proceso para responder la llamada hasta que un empleado se encuentre con estado FREE
 y el sistema le pueda asignar un empleado a la llamadaa.
 
-## Framework y tecnologías.
+## Framework y Tecnologías.
 
-*Spring boot*
-*Spring activemq*
-*Junit*
-*Java: 1.8*
+*Spring boot* , *Spring activemq*, *Junit*, *Java: 1.8*
 
